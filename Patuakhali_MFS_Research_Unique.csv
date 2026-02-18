@@ -1,0 +1,181 @@
+Agent_ID,Shop_Name,Union_Name,Provider,Slot_A_Amount,Slot_B_Amount,Slot_C_Amount,Total_Transactions,Male_Ratio,Female_Ratio,Liquidity_Crisis
+AG_PS_001,Majhi Pharmacy,Boro Bighai,bKash,8382,18720,26378,47,0.82,0.18,No
+AG_PS_002,Pasha Variety Store,Jaukura,bKash,12141,10835,30014,36,0.89,0.11,No
+AG_PS_003,Pasha Enterprise,Lohalia,bKash,7618,16177,20174,35,0.94,0.06,No
+AG_PS_004,Rari General Store,Choto Bighai,bKash,6055,16548,25964,49,0.87,0.13,No
+AG_PS_005,Munshi Pharmacy,Bodorpur,bKash,30523,29877,86350,184,0.64,0.36,Yes
+AG_PS_006,Akand Pharmacy,Boro Bighai,Rocket,12331,9641,22961,56,0.95,0.05,No
+AG_PS_007,Bhuiyan Digital,Kalikapur,Rocket,40155,42632,104992,152,0.7,0.3,Yes
+AG_PS_008,Islam Pharmacy,Lohalia,bKash,5785,14456,35280,53,0.92,0.08,No
+AG_PS_009,Rari Enterprise,Kalikapur,Rocket,37786,43049,106097,115,0.73,0.27,Yes
+AG_PS_010,Pasha Communication,Jainkahti,bKash,12163,13909,35990,27,0.8,0.2,No
+AG_PS_011,Munshi Digital,Boro Bighai,Nagad,11753,13839,21091,65,0.79,0.21,No
+AG_PS_012,Gazi Agency,Auliapur,bKash,12349,13500,30689,36,0.8,0.2,Yes
+AG_PS_013,Bhuiyan Point,Boro Bighai,bKash,5778,19573,22430,61,0.81,0.19,No
+AG_PS_014,Hossain Store,Lohalia,bKash,10703,13360,26823,35,0.83,0.17,No
+AG_PS_015,Khan Pharmacy,Jainkahti,bKash,11261,16989,20311,63,0.9,0.1,No
+AG_PS_016,Mridha Communication,Lohalia,Upay,7839,11978,27513,26,0.85,0.15,No
+AG_PS_017,Khan Enterprise,Boro Bighai,bKash,13711,15861,25192,58,0.78,0.22,No
+AG_PS_018,Talukdar Point,Lohalia,Nagad,6620,16284,33498,28,0.79,0.21,No
+AG_PS_019,Gazi Enterprise,Choto Bighai,Nagad,10588,11449,24006,68,0.76,0.24,No
+AG_PS_020,Rahman Communication,Auliapur,bKash,11134,12296,17251,41,0.94,0.06,No
+AG_PS_021,Hossain Telecom,Bodorpur,Rocket,39037,38501,100023,162,0.8,0.2,Yes
+AG_PS_022,Pasha Telecom,Kalikapur,Nagad,54274,44400,98466,168,0.59,0.41,Yes
+AG_PS_023,Akand Digital,Lohalia,Rocket,9243,15764,39936,69,0.79,0.21,No
+AG_PS_024,Gazi Communication,Jainkahti,Nagad,11842,17222,31113,52,0.76,0.24,No
+AG_PS_025,Rahman Pharmacy,Choto Bighai,bKash,14305,12117,22766,57,0.94,0.06,No
+AG_PS_026,Munshi Point,Lohalia,bKash,11233,19477,39019,40,0.8,0.2,No
+AG_PS_027,Talukdar Variety Store,Itbaria,Nagad,10537,9361,38804,66,0.79,0.21,No
+AG_PS_028,Khan Telecom,Kalikapur,bKash,38760,25392,93524,105,0.78,0.22,Yes
+AG_PS_029,Sarkar Store,Laukahti,Nagad,44859,27284,97955,147,0.66,0.34,Yes
+AG_PS_030,Khan Digital,Choto Bighai,bKash,11696,9153,24852,50,0.85,0.15,No
+AG_PS_031,Hossain Traders,Choto Bighai,Nagad,10562,18725,32640,61,0.8,0.2,No
+AG_PS_032,Munshi Communication,Kalikapur,Upay,55450,22532,71996,162,0.72,0.28,No
+AG_PS_033,Rahman Enterprise,Laukahti,bKash,35467,24871,105503,188,0.71,0.29,Yes
+AG_PS_034,Hossain General Store,Itbaria,Nagad,9753,8633,28473,64,0.89,0.11,Yes
+AG_PS_035,Rari Digital,Laukahti,bKash,55215,21629,81536,195,0.61,0.39,Yes
+AG_PS_036,Gazi General Store,Kalikapur,bKash,59149,20114,62898,154,0.73,0.27,No
+AG_PS_037,Akand Enterprise,Jaukura,bKash,8864,19133,37304,28,0.82,0.18,No
+AG_PS_038,Majhi General Store,Boro Bighai,Nagad,5903,13695,37082,66,0.91,0.09,No
+AG_PS_039,Bhuiyan Store,Boro Bighai,Rocket,6707,15772,33653,69,0.93,0.07,No
+AG_PS_040,Majhi Variety Store,Auliapur,Rocket,11457,15247,39507,28,0.84,0.16,No
+AG_PS_041,Siddique Agency,Kalikapur,Rocket,35893,39488,112671,146,0.56,0.44,Yes
+AG_PS_042,Rahman Digital,Lohalia,Nagad,8411,19879,35733,70,0.76,0.24,No
+AG_PS_043,Rahman Store,Boro Bighai,bKash,5274,12113,34439,49,0.92,0.08,No
+AG_PS_044,Khan Traders,Itbaria,bKash,5790,12497,15898,45,0.85,0.15,No
+AG_PS_045,Islam Traders,Kalikapur,Nagad,51608,41258,78346,101,0.79,0.21,No
+AG_PS_046,Siddique Traders,Bodorpur,Nagad,49624,25989,119760,192,0.79,0.21,Yes
+AG_PS_047,Rari Variety Store,Lohalia,Upay,9916,19860,37683,67,0.95,0.05,No
+AG_PS_048,Mridha Point,Bodorpur,bKash,33696,32242,99863,158,0.77,0.23,Yes
+AG_PS_049,Mridha Store,Choto Bighai,bKash,12558,17475,27981,34,0.95,0.05,No
+AG_PS_050,Gazi Store,Kamalapur,bKash,7974,16059,17078,38,0.86,0.14,No
+AG_PS_051,Siddique Telecom,Kalikapur,bKash,51869,41131,79793,110,0.71,0.29,No
+AG_PS_052,Pasha Point,Bodorpur,bKash,30373,33267,100146,166,0.78,0.22,Yes
+AG_PS_053,Pasha Traders,Boro Bighai,Nagad,6271,16561,30805,35,0.83,0.17,Yes
+AG_PS_054,Siddique Pharmacy,Jaukura,bKash,6666,12420,30765,36,0.77,0.23,No
+AG_PS_055,Mridha Variety Store,Bodorpur,bKash,48792,32179,103493,128,0.63,0.37,Yes
+AG_PS_056,Khan Agency,Kamalapur,bKash,6948,11194,25617,40,0.93,0.07,No
+AG_PS_057,Bhuiyan Enterprise,Choto Bighai,Nagad,7277,11522,31623,29,0.84,0.16,No
+AG_PS_058,Siddique Communication,Jainkahti,Nagad,7913,17222,31777,65,0.87,0.13,No
+AG_PS_059,Munshi Variety Store,Boro Bighai,bKash,10781,9499,18256,39,0.94,0.06,No
+AG_PS_060,Sarkar Agency,Laukahti,Nagad,31841,35976,88191,191,0.78,0.22,Yes
+AG_PS_061,Rahman Agency,Madarbunia,bKash,5594,8422,27370,35,0.93,0.07,No
+AG_PS_062,Munshi Telecom,Itbaria,Nagad,6200,9523,16116,26,0.76,0.24,No
+AG_PS_063,Bhuiyan Agency,Jainkahti,bKash,7246,18956,30364,69,0.83,0.17,No
+AG_PS_064,Pasha Pharmacy,Choto Bighai,Upay,8315,19947,32969,62,0.95,0.05,No
+AG_PS_065,Akand Communication,Madarbunia,bKash,8137,8616,23779,32,0.9,0.1,No
+AG_PS_066,Rari Store,Laukahti,Nagad,55996,33921,87870,183,0.59,0.41,Yes
+AG_PS_067,Sarkar Telecom,Madarbunia,bKash,12936,19938,37333,63,0.87,0.13,No
+AG_PS_068,Sarkar Digital,Kalikapur,Nagad,44047,35757,77148,142,0.75,0.25,No
+AG_PS_069,Sarkar General Store,Auliapur,Rocket,8431,13661,21049,46,0.87,0.13,Yes
+AG_PS_070,Khan Point,Itbaria,Rocket,8489,19858,23060,34,0.82,0.18,No
+AG_PS_071,Hossain Enterprise,Boro Bighai,Nagad,7384,10395,35158,27,0.84,0.16,No
+AG_PS_072,Talukdar Pharmacy,Boro Bighai,Nagad,11057,19840,18707,64,0.85,0.15,No
+AG_PS_073,Howlader Pharmacy,Laukahti,bKash,40372,22004,78680,159,0.64,0.36,Yes
+AG_PS_074,Majhi Digital,Madarbunia,bKash,13414,9363,24716,62,0.91,0.09,No
+AG_PS_075,Munshi Enterprise,Bodorpur,Upay,32774,31531,88061,161,0.62,0.38,Yes
+AG_PS_076,Akand General Store,Jaukura,Upay,14215,8733,15041,25,0.85,0.15,No
+AG_PS_077,Akand Telecom,Kamalapur,Nagad,13525,10379,18233,50,0.85,0.15,Yes
+AG_PS_078,Sarkar Point,Jainkahti,Nagad,10547,18970,19226,60,0.95,0.05,No
+AG_PS_079,Mridha Telecom,Kalikapur,bKash,30177,40913,81147,171,0.6,0.4,Yes
+AG_PS_080,Khan Variety Store,Madarbunia,Nagad,11675,8457,37305,63,0.8,0.2,No
+AG_PS_081,Rahman Point,Kamalapur,bKash,13864,11284,35585,66,0.75,0.25,Yes
+AG_PS_082,Gazi Point,Kamalapur,Nagad,6904,17702,29072,57,0.8,0.2,No
+AG_PS_083,Siddique Enterprise,Madarbunia,Nagad,7739,12155,29277,48,0.79,0.21,No
+AG_PS_084,Bhuiyan General Store,Laukahti,bKash,33841,31591,93763,167,0.64,0.36,Yes
+AG_PS_085,Munshi General Store,Madarbunia,bKash,11415,16068,32564,25,0.94,0.06,No
+AG_PS_086,Akand Store,Jaukura,bKash,13357,12205,30137,57,0.78,0.22,No
+AG_PS_087,Bhuiyan Pharmacy,Laukahti,Nagad,57233,36578,106557,131,0.77,0.23,Yes
+AG_PS_088,Talukdar Communication,Lohalia,Nagad,8742,15006,25934,40,0.85,0.15,No
+AG_PS_089,Gazi Digital,Kamalapur,Rocket,6375,17723,35709,46,0.87,0.13,No
+AG_PS_090,Hossain Pharmacy,Itbaria,bKash,5304,8174,17303,36,0.79,0.21,No
+AG_PS_091,Islam Variety Store,Jaukura,Nagad,12496,14362,27826,44,0.91,0.09,No
+AG_PS_092,Howlader Communication,Boro Bighai,bKash,7964,13113,38659,37,0.81,0.19,No
+AG_PS_093,Mridha Pharmacy,Jainkahti,bKash,12337,14692,24346,25,0.82,0.18,No
+AG_PS_094,Howlader Telecom,Itbaria,bKash,9032,12759,17694,58,0.84,0.16,Yes
+AG_PS_095,Islam Telecom,Bodorpur,Nagad,31767,27372,60615,143,0.72,0.28,No
+AG_PS_096,Gazi Traders,Itbaria,Nagad,6697,13780,37192,60,0.81,0.19,No
+AG_PS_097,Mridha Enterprise,Choto Bighai,Nagad,13196,12001,19390,70,0.92,0.08,No
+AG_PS_098,Akand Agency,Itbaria,bKash,11913,8824,17350,46,0.75,0.25,No
+AG_PS_099,Majhi Agency,Boro Bighai,bKash,14867,15953,38283,59,0.79,0.21,No
+AG_PS_100,Bhuiyan Communication,Itbaria,Nagad,8559,14502,32301,57,0.82,0.18,No
+AG_PS_101,Khan Store,Jainkahti,bKash,5768,9666,31514,31,0.81,0.19,No
+AG_PS_102,Rahman Traders,Madarbunia,bKash,14259,15158,31435,46,0.87,0.13,No
+AG_PS_103,Siddique Variety Store,Jainkahti,Rocket,14395,16138,39450,40,0.95,0.05,No
+AG_PS_104,Howlader General Store,Lohalia,Nagad,10265,12298,19072,38,0.85,0.15,No
+AG_PS_105,Talukdar Store,Kamalapur,bKash,12262,13411,18190,60,0.9,0.1,No
+AG_PS_106,Islam Enterprise,Jainkahti,Nagad,8260,13070,19854,69,0.86,0.14,No
+AG_PS_107,Sarkar Communication,Kalikapur,bKash,47093,44427,84903,143,0.59,0.41,Yes
+AG_PS_108,Gazi Variety Store,Itbaria,bKash,14381,19865,27691,55,0.8,0.2,No
+AG_PS_109,Sarkar Pharmacy,Auliapur,Nagad,8229,15477,19104,67,0.9,0.1,No
+AG_PS_110,Howlader Variety Store,Bodorpur,bKash,45273,24669,105995,196,0.71,0.29,Yes
+AG_PS_111,Talukdar General Store,Jainkahti,Nagad,6115,14033,37744,50,0.84,0.16,No
+AG_PS_112,Talukdar Digital,Boro Bighai,bKash,9401,8900,19074,44,0.91,0.09,No
+AG_PS_113,Khan Communication,Itbaria,bKash,14200,12642,39213,28,0.78,0.22,No
+AG_PS_114,Howlader Digital,Madarbunia,bKash,8291,18427,16910,44,0.78,0.22,No
+AG_PS_115,Munshi Agency,Bodorpur,bKash,30697,21213,114084,181,0.74,0.26,Yes
+AG_PS_116,Khan General Store,Choto Bighai,Upay,8341,13899,18443,59,0.9,0.1,No
+AG_PS_117,Bhuiyan Telecom,Boro Bighai,bKash,12253,11001,36786,66,0.91,0.09,No
+AG_PS_118,Hossain Agency,Bodorpur,bKash,37958,40812,67348,112,0.59,0.41,No
+AG_PS_119,Majhi Traders,Kamalapur,Rocket,12531,11857,21147,32,0.77,0.23,No
+AG_PS_120,Siddique Point,Jainkahti,bKash,10350,13605,25740,40,0.78,0.22,No
+AG_PS_121,Majhi Point,Kamalapur,Nagad,7090,17396,37957,61,0.84,0.16,No
+AG_PS_122,Howlader Point,Kalikapur,Nagad,46351,23727,89515,121,0.78,0.22,Yes
+AG_PS_123,Sarkar Traders,Choto Bighai,Nagad,9819,13935,34854,47,0.94,0.06,No
+AG_PS_124,Rahman Telecom,Madarbunia,bKash,10216,8153,30671,39,0.82,0.18,No
+AG_PS_125,Islam Digital,Jainkahti,Rocket,12614,15539,33587,50,0.84,0.16,No
+AG_PS_126,Talukdar Telecom,Choto Bighai,Nagad,11531,15219,39718,43,0.91,0.09,No
+AG_PS_127,Pasha Store,Auliapur,bKash,8828,10860,17312,70,0.81,0.19,No
+AG_PS_128,Pasha Digital,Jainkahti,Nagad,12771,15497,29323,56,0.77,0.23,No
+AG_PS_129,Munshi Store,Kamalapur,bKash,14716,18804,16442,58,0.86,0.14,No
+AG_PS_130,Rari Pharmacy,Itbaria,bKash,6919,15544,36982,30,0.94,0.06,No
+AG_PS_131,Talukdar Enterprise,Kamalapur,Nagad,7981,15344,38474,68,0.82,0.18,No
+AG_PS_132,Rari Communication,Jainkahti,bKash,12091,8841,39316,68,0.93,0.07,No
+AG_PS_133,Rari Point,Madarbunia,bKash,12904,11964,21579,26,0.84,0.16,No
+AG_PS_134,Majhi Enterprise,Jaukura,Nagad,12887,11430,30896,31,0.86,0.14,No
+AG_PS_135,Majhi Telecom,Kalikapur,Upay,52665,20291,103596,174,0.68,0.32,Yes
+AG_PS_136,Talukdar Traders,Madarbunia,bKash,8348,11244,27848,58,0.82,0.18,No
+AG_PS_137,Majhi Communication,Madarbunia,Nagad,12979,13063,16432,58,0.9,0.1,No
+AG_PS_138,Rari Agency,Laukahti,bKash,57219,20257,101393,116,0.73,0.27,Yes
+AG_PS_139,Hossain Point,Lohalia,Nagad,6790,13313,16932,43,0.77,0.23,No
+AG_PS_140,Islam Point,Lohalia,bKash,10496,19880,34880,65,0.83,0.17,No
+AG_PS_141,Majhi Store,Kalikapur,Nagad,44842,42251,94736,122,0.58,0.42,Yes
+AG_PS_142,Islam Store,Auliapur,bKash,11659,10497,22873,53,0.78,0.22,No
+AG_PS_143,Gazi Telecom,Boro Bighai,Nagad,14516,18121,27640,32,0.83,0.17,No
+AG_PS_144,Rari Telecom,Auliapur,bKash,6957,16038,36142,45,0.94,0.06,No
+AG_PS_145,Islam General Store,Jaukura,Rocket,12192,10146,22034,68,0.82,0.18,Yes
+AG_PS_146,Akand Traders,Kamalapur,bKash,13413,14908,32376,69,0.81,0.19,No
+AG_PS_147,Mridha Traders,Jainkahti,bKash,5384,12678,31055,25,0.9,0.1,Yes
+AG_PS_148,Talukdar Agency,Choto Bighai,bKash,13228,8382,37311,65,0.94,0.06,No
+AG_PS_149,Mridha Digital,Kalikapur,Upay,35155,33210,109479,105,0.76,0.24,Yes
+AG_PS_150,Gazi Pharmacy,Auliapur,Upay,13928,14282,29345,41,0.82,0.18,No
+AG_PS_151,Hossain Digital,Kamalapur,bKash,14575,10639,16285,43,0.9,0.1,No
+AG_PS_152,Howlader Traders,Itbaria,Nagad,11635,18286,28383,61,0.77,0.23,No
+AG_PS_153,Mridha Agency,Boro Bighai,Nagad,13555,18799,38266,45,0.79,0.21,No
+AG_PS_154,Pasha Agency,Jainkahti,Rocket,6390,16320,20885,69,0.94,0.06,No
+AG_PS_155,Siddique Store,Jainkahti,Rocket,13634,15528,20928,30,0.75,0.25,No
+AG_PS_156,Bhuiyan Variety Store,Jaukura,Rocket,7750,15319,27598,44,0.79,0.21,No
+AG_PS_157,Munshi Traders,Lohalia,Nagad,6335,8952,37882,58,0.93,0.07,No
+AG_PS_158,Rari Traders,Jaukura,Rocket,9534,19093,32023,55,0.91,0.09,No
+AG_PS_159,Islam Agency,Choto Bighai,bKash,13987,8597,17313,47,0.92,0.08,No
+AG_PS_160,Akand Point,Jainkahti,bKash,11262,15205,34452,63,0.77,0.23,No
+AG_PS_161,Islam Communication,Auliapur,bKash,5029,14614,28827,57,0.92,0.08,No
+AG_PS_162,Howlader Enterprise,Itbaria,bKash,8031,11252,21225,44,0.91,0.09,No
+AG_PS_163,Howlader Store,Kalikapur,bKash,32614,22602,102329,105,0.62,0.38,Yes
+AG_PS_164,Hossain Variety Store,Jainkahti,bKash,7279,17303,21421,32,0.76,0.24,No
+AG_PS_165,Akand Variety Store,Lohalia,Nagad,8767,18267,28226,38,0.81,0.19,No
+AG_PS_166,Sarkar Variety Store,Kamalapur,bKash,8932,14677,31161,31,0.84,0.16,No
+AG_PS_167,Sarkar Enterprise,Choto Bighai,bKash,5720,16091,32981,54,0.8,0.2,No
+AG_PS_168,Rahman General Store,Kamalapur,Upay,9731,12390,38689,46,0.92,0.08,No
+AG_PS_169,Siddique Digital,Kalikapur,bKash,32438,42270,105286,186,0.62,0.38,Yes
+AG_PS_170,Bhuiyan Traders,Jaukura,Rocket,14968,15103,32343,48,0.81,0.19,No
+AG_PS_171,Siddique General Store,Kamalapur,Nagad,10037,10437,16807,44,0.76,0.24,No
+AG_PS_172,Rahman Variety Store,Boro Bighai,Nagad,7304,9175,27113,70,0.89,0.11,No
+AG_PS_173,Hossain Communication,Choto Bighai,bKash,11901,15111,16467,28,0.89,0.11,No
+AG_PS_174,Pasha General Store,Kamalapur,Rocket,5011,18555,35725,49,0.82,0.18,No
+AG_PS_175,Mridha General Store,Auliapur,bKash,7756,17378,30608,38,0.88,0.12,No
+AG_PS_176,Howlader Agency,Auliapur,bKash,14274,18035,15436,27,0.86,0.14,Yes
+AG_PS_177,Bhuiyan Variety Store - 177,Kamalapur,Nagad,11650,19696,15856,46,0.87,0.13,No
+AG_PS_178,Pasha Pharmacy - 178,Auliapur,bKash,5279,15896,38569,47,0.89,0.11,Yes
+AG_PS_179,Howlader Pharmacy - 179,Laukahti,bKash,39214,42732,100245,168,0.63,0.37,Yes
+AG_PS_180,Talukdar Telecom - 180,Itbaria,bKash,10234,9985,16359,34,0.94,0.06,No
